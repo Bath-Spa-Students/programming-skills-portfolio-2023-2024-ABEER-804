@@ -1,4 +1,5 @@
 name =["Ahmad", "Ali", "Rafay", "Abeer",]
+# List of people to invite to dinner
 for x in range(len(name)):
     if len(name) == 2:
      break
