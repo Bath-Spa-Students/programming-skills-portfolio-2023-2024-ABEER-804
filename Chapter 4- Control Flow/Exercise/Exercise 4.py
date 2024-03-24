@@ -11,4 +11,4 @@ elif 13 <= age < 20:
 elif 20 <= age < 65:
     print("The person is an elder")
 else:
-    print("The person is an elder")
+    print("The person is an adult")
